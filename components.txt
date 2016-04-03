@@ -1,0 +1,95 @@
+DIP CHIPS
+	DS1307 		Real Time Clock			2
+	ATTINY45	Microcontroller			5
+	ATTINY85 	Microcontroller			3
+	ATMEGA328p	Microcontroller			2
+	7450N 		And-Or-Invert Gate		5
+	74F51N 		And-Or-Invert Gate		1
+	7450		And-Or-Invert Gate		1
+	74HCTLS08	And Gate			2
+	74ALS08		And Gate			5
+	74LS00		Nand Gate			10
+	74ALS133N	Nand Gate			1
+	74AS804		Nand Gate			1
+	74S00		Nand Gate			3	
+	74F3037		Nand Gate			1
+	74S03		Nand Gate			3	
+	7438		Nand Gate			1
+	74F32		Or Gate				1
+	74S86		Xor Gate			2
+	74F02		Nor Gate			3
+	74AS27		Nor Gate			2
+	74S02		Nor Gate			1
+	74S260		Nor Gate			1
+	74HC14		Schmitt Trigger Inverter	8
+	74S280		Parity Generator		2
+	74LS280		Parity Generator		5
+	74HCT597	Shift Register			1
+	74F164		Shift Register			1
+	74FCT2574	Shift Register			1
+	74HC595		Shift Register			27
+	74155		Multiplexer			3
+	74LS157		Multiplexer			1
+	74ALS158	Multiplexer			1
+	74AS153		Multiplexer			2
+	74F158		Multiplexer			1
+	74LS257		Multiplexer			1
+	74LS163		Counter				2
+	74LS293		Counter				1
+	74ALS163	Counter				1
+	74HCT192	Counter				1
+	74LS378		FLip-Flop			7
+	74109		Flip-Flop			3
+	74ALS109	FLip-Flop			2
+	74LS375		Flip-Flop			2
+	74S112		Flip-Flop			2
+	74S113		Flip-FLop			1
+	74F374		Flip-Flop			1
+	74FCT534	Flip-Flop			2
+	74FCT841	Flip-Flop			2
+	74AHCT373	Flip-Flop			1
+	74F240		Buffer				5
+	74ALS1004	Inverting Driver		1
+	74LS366		Buffer				1
+	7407 		Buffer				1
+	74F544		Transciever			1
+	74F646		Transciever			1
+	810 332		Opto-Isolater			3
+	555		Timer				42
+	741CN		OpAmp				8
+	LM2902		OpAmp				25
+	TL082		OpAmp				1
+	
+Non DIP
+	LM7805		5V Regulator			10
+	7808		8V Regulator			1
+	7905		-5V REgulator			1
+	TMP36		Temperature Sensor		2
+	BC547		NPN 				35
+	MPS9631		NPN				1
+	2N44001		NPN				5
+	2N3904		NPN				4
+	2N2222		NPN				5
+	BC212		PNP				1
+	BC557		PNP				13
+	2N2907		PNP				5
+	2N2906		PNP				5
+	2N4403		PNP				5
+	P16NF06		N-Channel			9
+	P12PF06		P-Channel			5
+	NTE2547		NPN Darlington			8
+	GBU606		Bridge Rectifier		1
+	IRF630		N-Channel			9
+	IRF510		N-Channel			2
+	C5387		NPN				1
+	SBR30A50CT	Rectifier			1
+	13N50		N-Channel			1
+	TIP122		NPN Darlington			1
+	18N50		N-Channel			1
+	30A40		Rectifier			2
+	2N2905		PNP				1
+	
+LED Related
+	UM5624		4 digit seven segment		1
+	24782		1 digit seven segment		7
+	ELS 321HDB	1 digit seven segment		1
